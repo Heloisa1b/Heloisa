@@ -1,5 +1,5 @@
 header{
-   background-color: #383D58;
+   background-color: #000000;
    color: white;
    display: flex;
    }
@@ -24,7 +24,7 @@ header{
    width:25%;
    }
    .escola {
-   background-image: linear-gradient(#383D58,#00c0eb);
+   background-image: linear-gradient(#000000,#00c0eb);
    color: white;
    display:flex;
    justify-content: center;
@@ -42,6 +42,10 @@ header{
    }
    .estudante-imagem{
    width: 120px;
+   }
+   .instagram {
+      width: 120px;
+      height: 120px;
    }
    .estudante-div {
    text-align: center;
